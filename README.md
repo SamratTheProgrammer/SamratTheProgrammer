@@ -6,10 +6,10 @@
 ---
 
 ## 💡 About Me
-
+From **INDIA**
 - 🌱 Learning **Cloud Computing & DEV OPS**
-- 🌐 Portfolio: **[https://react-portfolio-flame-delta.vercel.app/](https://react-portfolio-flame-delta.vercel.app/)**
-- 📄 Resume: **[View Resume](https://react-portfolio-flame-delta.vercel.app/assets/Samrat_Saha_CV-BvAzzWmY.pdf)**
+- 🌐 Portfolio: **[https://samratdev.vercel.app/](https://samratdev.vercel.app/)**
+- 📄 Resume: **[View Resume](https://samratdev.vercel.app/assets/Samrat_Saha_CV-4CfjGokt.pdf)**
 - 😄 Pronouns: **he/him**
 
 ---
