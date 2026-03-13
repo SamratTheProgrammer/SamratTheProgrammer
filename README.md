@@ -8,7 +8,7 @@
 ## 💡 About Me
 From **INDIA**
 - 🌱 Learning **Cloud Computing & DEV OPS**
-- 🌐 Portfolio: **[https://samratdev.vercel.app/](https://samratdev.vercel.app/)**
+- 🌐 Portfolio: **[https://samratdev.vercel.app](https://samratdev.vercel.app)**
 - 📄 Resume: **[View Resume](https://samratdev.vercel.app/assets/Samrat_Saha_CV-4CfjGokt.pdf)**
 - 😄 Pronouns: **he/him**
 
